@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80c9ab28-ad5a-49cb-a1b3-925cdb3d61c1" name="Changes" comment="Började om från E nivå">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="80c9ab28-ad5a-49cb-a1b3-925cdb3d61c1" name="Changes" comment="Klar med klienten">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716818408921</updated>
-      <workItem from="1716818410028" duration="4772000" />
+      <workItem from="1716818410028" duration="5048000" />
     </task>
     <task id="LOCAL-00001" summary="Copied the code from C nivå">
       <option name="closed" value="true" />
@@ -64,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716821860439</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Klar med klienten">
+      <option name="closed" value="true" />
+      <created>1716823483569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716823483569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +80,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Copied the code from C nivå" />
     <MESSAGE value="Började om från E nivå" />
-    <option name="LAST_COMMIT_MESSAGE" value="Började om från E nivå" />
+    <MESSAGE value="Klar med klienten" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klar med klienten" />
   </component>
 </project>

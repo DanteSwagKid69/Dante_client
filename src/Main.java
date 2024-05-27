@@ -27,7 +27,7 @@ public class Main {
                 InputStream clientIn = client.getInputStream();
                 BufferedReader br = new BufferedReader(new InputStreamReader(clientIn));
 
-                // Create BufferedReader for a standard input
+                // Create BufferedReader for a standard inputt
                 BufferedReader stdIn = new BufferedReader(new InputStreamReader(System.in));
 
                 System.out.println("Enter the math problem. Type Bye to exit");
